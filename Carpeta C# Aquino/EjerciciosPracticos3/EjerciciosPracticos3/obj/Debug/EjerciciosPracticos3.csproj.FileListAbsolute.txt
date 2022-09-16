@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\bin\Debug\EjerciciosPracticos3.exe.config
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\bin\Debug\EjerciciosPracticos3.exe
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\bin\Debug\EjerciciosPracticos3.pdb
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\obj\Debug\EjerciciosPracticos3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\obj\Debug\EjerciciosPracticos3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\obj\Debug\EjerciciosPracticos3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\obj\Debug\EjerciciosPracticos3.exe
+C:\Users\Usuario\source\repos\EjerciciosPracticos3\EjerciciosPracticos3\obj\Debug\EjerciciosPracticos3.pdb

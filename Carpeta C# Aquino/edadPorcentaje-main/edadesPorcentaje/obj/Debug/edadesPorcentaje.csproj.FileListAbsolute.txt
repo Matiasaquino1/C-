@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\bin\Debug\edadesPorcentaje.exe.config
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\bin\Debug\edadesPorcentaje.exe
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\bin\Debug\edadesPorcentaje.pdb
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\obj\Debug\edadesPorcentaje.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\obj\Debug\edadesPorcentaje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\obj\Debug\edadesPorcentaje.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\obj\Debug\edadesPorcentaje.exe
+C:\Users\Usuario\source\repos\edadesPorcentaje\edadesPorcentaje\obj\Debug\edadesPorcentaje.pdb

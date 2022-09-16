@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\ruleta\ruleta\bin\Debug\ruleta.exe.config
+C:\Users\Usuario\source\repos\ruleta\ruleta\bin\Debug\ruleta.exe
+C:\Users\Usuario\source\repos\ruleta\ruleta\bin\Debug\ruleta.pdb
+C:\Users\Usuario\source\repos\ruleta\ruleta\obj\Debug\ruleta.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ruleta\ruleta\obj\Debug\ruleta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ruleta\ruleta\obj\Debug\ruleta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ruleta\ruleta\obj\Debug\ruleta.exe
+C:\Users\Usuario\source\repos\ruleta\ruleta\obj\Debug\ruleta.pdb

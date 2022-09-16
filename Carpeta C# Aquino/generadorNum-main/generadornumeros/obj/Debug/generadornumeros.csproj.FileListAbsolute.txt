@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\bin\Debug\generadornumeros.exe.config
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\bin\Debug\generadornumeros.exe
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\bin\Debug\generadornumeros.pdb
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\obj\Debug\generadornumeros.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\obj\Debug\generadornumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\obj\Debug\generadornumeros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\obj\Debug\generadornumeros.exe
+C:\Users\Usuario\source\repos\generadornumeros\generadornumeros\obj\Debug\generadornumeros.pdb
