@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\bin\Debug\RecuperatorioPrimer.exe.config
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\bin\Debug\RecuperatorioPrimer.exe
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\bin\Debug\RecuperatorioPrimer.pdb
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\obj\Debug\RecuperatorioPrimer.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\obj\Debug\RecuperatorioPrimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\obj\Debug\RecuperatorioPrimer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\obj\Debug\RecuperatorioPrimer.exe
+C:\Users\Usuario\source\repos\RecuperatorioPrimer\RecuperatorioPrimer\obj\Debug\RecuperatorioPrimer.pdb

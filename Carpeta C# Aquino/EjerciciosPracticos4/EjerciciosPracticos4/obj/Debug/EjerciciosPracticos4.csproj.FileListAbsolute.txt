@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\bin\Debug\EjerciciosPracticos4.exe.config
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\bin\Debug\EjerciciosPracticos4.exe
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\bin\Debug\EjerciciosPracticos4.pdb
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\obj\Debug\EjerciciosPracticos4.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\obj\Debug\EjerciciosPracticos4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\obj\Debug\EjerciciosPracticos4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\obj\Debug\EjerciciosPracticos4.exe
+C:\Users\Usuario\source\repos\EjerciciosPracticos4\EjerciciosPracticos4\obj\Debug\EjerciciosPracticos4.pdb

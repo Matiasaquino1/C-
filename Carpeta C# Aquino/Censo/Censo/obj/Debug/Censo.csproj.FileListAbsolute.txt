@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Censo\Censo\obj\Debug\Censo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Censo\Censo\obj\Debug\Censo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Censo\Censo\obj\Debug\Censo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Censo\Censo\bin\Debug\Censo.exe.config
+C:\Users\Usuario\source\repos\Censo\Censo\bin\Debug\Censo.exe
+C:\Users\Usuario\source\repos\Censo\Censo\bin\Debug\Censo.pdb
+C:\Users\Usuario\source\repos\Censo\Censo\obj\Debug\Censo.exe
+C:\Users\Usuario\source\repos\Censo\Censo\obj\Debug\Censo.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecuperatorioPrimer", "RecuperatorioPrimer\RecuperatorioPrimer.csproj", "{3A254813-C2FE-4722-AD0E-6C20FA7C8AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A254813-C2FE-4722-AD0E-6C20FA7C8AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A254813-C2FE-4722-AD0E-6C20FA7C8AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A254813-C2FE-4722-AD0E-6C20FA7C8AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A254813-C2FE-4722-AD0E-6C20FA7C8AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E858D36-C34C-4149-8AB1-26A60BE88D8D}
+	EndGlobalSection
+EndGlobal
